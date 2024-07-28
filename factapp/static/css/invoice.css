@@ -1,0 +1,42 @@
+/* Styling the invoice container */
+.invoice-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+/* Styling the invoice header */
+.invoice-header {
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+/* Styling the invoice body */
+.invoice-body {
+    margin-top: 20px;
+}
+
+/* Styling the invoice table */
+.custom-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* Styling table headers */
+.custom-table th {
+    background-color: #f0f0f0;
+    text-align: left;
+    padding: 10px;
+}
+
+/* Styling table rows */
+.custom-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+/* Styling the invoice footer */
+.invoice-footer {
+    margin-top: 20px;
+    text-align: center;
+    font-style: italic;
+}
